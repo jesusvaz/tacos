@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  color:rgb(240, 25, 211);
+  font-family: 'Merriweather', serif;
+}
+
+img{
+  width: 100%;
+  height: auto;
 }
 
 .App-logo {
